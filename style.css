@@ -1,0 +1,41 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom right, #0f2027, #203a43, #2c5364);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  flex-direction: column;
+}
+
+main {
+  max-width: 700px;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 0;
+  color: #a0d2eb;
+}
+
+ul {
+  text-align: left;
+  list-style: none;
+  padding-left: 0;
+}
+
+footer {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #bbbbbb;
+}
